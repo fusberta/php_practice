@@ -1,0 +1,19 @@
+.custom-file-upload {
+    display: block;
+    cursor: pointer;
+    background: #f9f9f9;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.custom-file-upload img {
+    width: 100px;
+    height: 100px;
+    vertical-align: middle;
+    border-radius: 50%;
+}
+
+#fileInput {
+    display: none;
+}
